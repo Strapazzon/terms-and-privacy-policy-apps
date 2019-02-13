@@ -1,4 +1,4 @@
-# SSaldo privacy policy
+# Aviation Weather privacy policy
 
 Your account information and password are not stored or transmitted to data collection servers in any way. Your information is trafficked using the best security practices for data transmission over the internet.
 
@@ -42,7 +42,7 @@ If our store is acquired or merged with another company, your information may be
 
 
 
-# Politica de privacidade SSaldo
+# Politica de privacidade Aviation Weather
 
 Suas informações de conta e senha não são armazenadas ou transmitidas para servidores de coleta de dados de nenhuma forma. Suas informações são trafegadas utilizando as melhores práticas de segurança para transmissão de dados pela internet.
 
