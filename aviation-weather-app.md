@@ -1,4 +1,4 @@
-# Aviation Weather privacy policy
+# Aviation Weather App privacy policy
 
 Your account information and password are not stored or transmitted to data collection servers in any way. Your information is trafficked using the best security practices for data transmission over the internet.
 
@@ -18,7 +18,7 @@ If we ask for your personal information for a secondary reason such as marketing
 
 And if you want to withdraw your consent, how do you proceed?
 
-If after you provide us with your data, you change your mind, you may withdraw your consent so that we may contact you, for the collection of continuous data, use or disclosure of your information, at any time by contacting us at @ gtsdata.com.br.
+If after you provide us with your data, you change your mind, you may withdraw your consent so that we may contact you, for the collection of continuous data, use or disclosure of your information, at any time by contacting us at support@aviationweather.app.
 
 ## SECTION 3 - DISCLOSURE
 
@@ -62,7 +62,7 @@ Se pedimos por suas informações pessoais por uma razão secundária, como mark
 
 E caso você queira retirar seu consentimento, como proceder?
 
-Se após você nos fornecer seus dados, você mudar de ideia, você pode retirar o seu consentimento para que possamos entrar em contato, para a coleção de dados contínua, uso ou divulgação de suas informações, a qualquer momento, entrando em contato conosco em contato@gtsdata.com.br.
+Se após você nos fornecer seus dados, você mudar de ideia, você pode retirar o seu consentimento para que possamos entrar em contato, para a coleção de dados contínua, uso ou divulgação de suas informações, a qualquer momento, entrando em contato conosco em support@aviationweather.app.
 
 ## SEÇÃO 3 - DIVULGAÇÃO
 
